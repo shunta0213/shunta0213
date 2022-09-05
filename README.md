@@ -10,8 +10,7 @@
 
 
 ## Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta0213)](https://github.com/shunta0213)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta0213&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/shunta0213)
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left">
