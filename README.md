@@ -55,9 +55,6 @@
     　　<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a> 
 </p>
-
-## Sub / Studying
-
 <p>
     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     　　<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
