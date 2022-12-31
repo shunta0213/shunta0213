@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/shunta0213/shunta0213/main/header_dark.jpg" width="500px">
 
-
 ## Links
 ![](https://komarev.com/ghpvc/?username=shunta0213)
 [![](https://img.shields.io/twitter/follow/id_shn?color=blue&style=flat-square)](https://twitter.com/id_shn)
@@ -12,7 +11,17 @@
 ## Github Status
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta0213&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/shunta0213)
 
-<h2 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools:</h2>
+
+- TypeScript  
+React, Next.js (Tailwind, storybook, styled compoentns etc)  
+Nest.js
+- Dart  
+Flutter
+- Go  
+Web API etc
+
 <p align="left">
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
