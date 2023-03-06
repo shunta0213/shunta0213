@@ -2,7 +2,7 @@
 
 ## Links
 ![](https://komarev.com/ghpvc/?username=shunta0213)
-[![](https://img.shields.io/twitter/follow/id_shn?color=blue&style=flat-square)](https://twitter.com/id_shn)
+[![](https://img.shields.io/twitter/follow/sprshunt?color=blue&style=flat-square)](https://twitter.com/sprshunt)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/shun_i/posts.svg)](http://qiita.com/shun_i)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/shun_i/contributions.svg)](http://qiita.com/shun_i)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/shun_i/followers.svg)](http://qiita.com/shun_i)
