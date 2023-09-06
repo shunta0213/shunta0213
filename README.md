@@ -13,6 +13,8 @@
 
 
 <h2 align="left">Languages and Tools:</h2>
+- NeoVim
+- Arch
 
 - TypeScript  
 React, Next.js (Tailwind, storybook, styled compoentns etc)  
