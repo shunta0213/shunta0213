@@ -11,7 +11,7 @@
 ## Github Status
 [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?show_icons=true&count_private=true&theme=highcontrast&username=shunta0213)](https://github.com/shunta0213)
 
-### IDE
+### Editor
 - NeoVim
 ### OS 
 - Windows
